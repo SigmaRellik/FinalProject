@@ -32,11 +32,19 @@ You must inspect your traffic capture to answer the following questions:
     - IP address: `172.16.4.205`
     - MAC address: `00:59:07:b0:63:a4`
     
+![](Resources/2.5.png)    
 2. What is the username of the Windows user whose computer is infected?
     - `mattijis.dervies`
+
+![](Resources/2.6.png)
 3. What are the IP addresses used in the actual infection traffic?
     - `185.243.11.84`
+
+![](Resources/2.7.png)
 4. As a bonus, retrieve the desktop background of the Windows host.
+
+![](Resources/2.8.png)
+![](Resources/2.9.png)
 
 ---
 
@@ -47,6 +55,10 @@ You must inspect your traffic capture to answer the following questions:
     - Windows username: `elmer.blanco`
     - OS version: `Windows 10 64-bit`
 
+![](Resources/2.10.png)
 2. Which torrent file did the user download?
     - `Betty_Boop_Rhythm_on_the_Reservation.avi.torrent`
+
+
+![](Resources/2.11.png)
     
