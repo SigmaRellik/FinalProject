@@ -44,7 +44,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 - Target 1
   - `flag1.txt`: b9bbcb33e11b80be759c4e844862482d
     - After gaining access to Michael's grep "flag" inside /var/www/html
-  ![](![](Resources/1.6.png)
+   ![](Resources/1.6.png)
   - `flag2.txt`: fc3fd58dcdad9ab23faca6e9a36e581c
     - Guessing Michael's password to log in via SSH, and search for flag inside /var/www/html
    ![](Resources/1.7.png)
