@@ -43,21 +43,20 @@ _TODO: Fill out the details below. Include screenshots where possible._
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
 - Target 1
   - `flag1.txt`: b9bbcb33e11b80be759c4e844862482d
-    After gaining access to Michael's grep "flag" inside /var/www/html
+    - After gaining access to Michael's grep "flag" inside /var/www/html
   ![](![](Resources/1.6.png)
   - `flag2.txt`: fc3fd58dcdad9ab23faca6e9a36e581c
-    Guessing Michael's password to log in via SSH, and search for flag inside /var/www/html
+    - Guessing Michael's password to log in via SSH, and search for flag inside /var/www/html
    ![](Resources/1.7.png)
    ![](Resources/1.12.png)
   - `flag3.txt`: afc01ab56b50591e7dccf93122770cd2
-    Using credientials found inside `wp-config.php` to log into MySQL
+    - Using credientials found inside `wp-config.php` to log into MySQL
     ![](Resources/1.8.png)
     ![](Resources/1.11.png)
     ![](Resources/1.9.png)
     ![](Resources/1.10.png)
   - `flag4.txt`: 715dea6c055b9fe3337544932f2941ce
-   åfter using john to get the credentials of Steven from the hash found inside MYSQL. We used a python script to escalate privileges
-  
+   - After using john to get the credentials of Steven from the hash found inside MYSQL. We used a python script to escalate privileges
    ![](Resources/1.13.png)
    ![](Resources/1.14.png)
    ![](Resources/1.15.png)
