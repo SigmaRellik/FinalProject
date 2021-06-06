@@ -17,12 +17,11 @@ You must inspect your traffic capture to answer the following questions:
    - `june11.dll`
 
 ![](Resources/2.2.png)
-4. Upload the file to [VirusTotal.com](https://www.virustotal.com/gui/). 
+4. Upload the file to [VirusTotal.com](https://www.virustotal.com/gui/)
+![](Resources/2.3.png)
+![](Resources/2.4.png)
 5. What kind of malware is this classified as?
     `trojan`
-    
-    ![](Resources/2.3.png)
-    ![](Resources/2.4.png)
 
 ---
 
