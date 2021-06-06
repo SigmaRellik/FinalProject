@@ -23,7 +23,7 @@ This scan identifies the services below as potential points of entry:
   - rpcbind
   - netbio-ssn
 
-_TODO: Fill out the list below. Include severity, and CVE numbers, if possible._
+![](Resources/1.2.png)
 
 The following vulnerabilities were identified on each target:
 - Target 1
@@ -32,7 +32,7 @@ The following vulnerabilities were identified on each target:
   - SQL database access
   - root access with python
 
-_TODO: Include vulnerability scan results to prove the identified vulnerabilities._
+![](Resources/1.3.png)
 
 ### Exploitation
 _TODO: Fill out the details below. Include screenshots where possible._
