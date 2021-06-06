@@ -57,6 +57,5 @@ Alert 3 is implemented as follows:
   - **Vulnerability Mitigated**: `It can alert for any malicious script running in the system that potentially affecting performance`
   - **Reliability**: `Rated a low reliability due to the low threshold. Increase the threshold for the reliability to increase`
 
-_TODO Note: Explain at least 3 alerts. Add more if time allows._
 
 
